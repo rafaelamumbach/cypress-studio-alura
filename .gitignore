@@ -1,4 +1,5 @@
 edicao-movimento.cy.js
+login-form-incorreto.cy.js
 node_modules/
 cypress.config.js
 cypress.env.json

@@ -1,0 +1,4 @@
+edicao-movimento.cy.js
+node_modules/
+cypress.config.js
+cypress.env.json

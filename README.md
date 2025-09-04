@@ -5,9 +5,10 @@ O objetivo é aprender conceitos básicos, estruturar os testes e praticar autom
 *O conteúdo deste repositório provém de um dos cursos de Cypress do Alura.*
 
 #### 🖥️ Para rodar
-**´npx cypress run --spec ".\cypress\e2e\caminho-do-seu-teste.cy.js”´**<br>
+```bash
+**npx cypress run --spec ".\cypress\e2e\caminho-do-seu-teste.cy.js”**<br>
 **´npx cypress open´**<br>
-
+```
 
 ---
 

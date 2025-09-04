@@ -6,7 +6,11 @@ O objetivo é aprender conceitos básicos, estruturar os testes e praticar autom
 
 #### 🖥️ Para rodar
 ```bash
-npx cypress run --spec ".\cypress\e2e\caminho-do-seu-teste.cy.js”
+npx cypress run --spec ".\cypress\e2e\caminho-do-seu-teste.cy.js” //para rodar um teste em específico
+```
+
+```bash
+npx cypress run //para rodar todos os testes
 ```
 
 ```bash

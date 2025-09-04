@@ -29,3 +29,5 @@ npx cypress open
 ✔️ Boas práticas em testes automatizados;<br>
 ✔️ Melhorias de perfomance; <br>
 ✔️ Documentação e relatório de vídeo dos testes.
+
+---

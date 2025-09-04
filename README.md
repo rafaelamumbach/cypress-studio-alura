@@ -5,14 +5,17 @@ O objetivo é aprender conceitos básicos, estruturar os testes e praticar autom
 *O conteúdo deste repositório provém de um dos cursos de Cypress do Alura.*
 
 #### 🖥️ Para rodar
+1. Apenas um teste específico (no terminal):
 ```bash
-npx cypress run --spec ".\cypress\e2e\caminho-do-seu-teste.cy.js” //para rodar um teste em específico
+npx cypress run --spec ".\cypress\e2e\caminho-do-seu-teste.cy.js” 
 ```
 
+2. Todos os testes (no terminal):
 ```bash
-npx cypress run //para rodar todos os testes
+npx cypress run 
 ```
 
+3. Todos os testes (na interface gráfica):
 ```bash
 npx cypress open
 ```

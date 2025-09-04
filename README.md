@@ -6,16 +6,18 @@ O objetivo é aprender conceitos básicos, estruturar os testes e praticar autom
 
 #### 🖥️ Para rodar
 ```bash
-**npx cypress run --spec ".\cypress\e2e\caminho-do-seu-teste.cy.js”**<br>
-**´npx cypress open´**<br>
+npx cypress run --spec ".\cypress\e2e\caminho-do-seu-teste.cy.js”
 ```
 
+```bash
+npx cypress open
+```
 ---
 
 #### 📚 O que está sendo estudado
 ✔️ Instalação e configuração inicial;<br>
 ✔️ Estruturação de pastas e primeiros testes;<br>
-✔️ Comandos básicos (**´cy.visit, cy.get, cy.contains´**);<br>
+✔️ Comandos básicos (**cy.visit, cy.get, cy.contains**);<br>
 ✔️ Testes com sucesso e falha;<br> 
 ✔️ Boas práticas em testes automatizados;<br>
 ✔️ Melhorias de perfomance; <br>

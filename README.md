@@ -10,4 +10,6 @@ O objetivo é aprender conceitos básicos, estruturar os testes e praticar autom
 ✔️ Instalação e configuração inicial;<br>
 ✔️ Estrutura de pastas e primeiros testes;<br>
 ✔️ Comandos básicos (**cy.visit, cy.get, cy.contains**);<br>
-✔️ Boas práticas em testes automatizados.
+✔️ Testes com sucesso e com falha;<br> 
+✔️ Boas práticas em testes automatizados;<br>
+✔️ Documentação e relatório de vídeo dos testes.
